@@ -1,7 +1,12 @@
 # COMP2113_Group131_Sudoku
 
 ## About Sudoku ##
-Sudoku is a mathematical game that originated in 18th century Switzerland. It is a logic game. Players need to infer all the numbers in the remaining spaces based on the known numbers on the 9×9 board and satisfy that the numbers in each row, column, and each thick line house (3*3) contain 1-9, without any repetition. 
+Sudoku is a mathematical game that originated in 18th century Switzerland. It is a logic game. Players need to infer all the numbers in the remaining spaces based on the known numbers on the 9×9 board and satisfy that the numbers in each row, column, and each thick line house (3*3) contain 1-9, without any repetition. (As indicated in the pictures below.)
+
+![](https://www.conceptispuzzles.com/zh/picture/11/1354.gif)          ![](https://www.conceptispuzzles.com/zh/picture/11/1355.gif)
+
+**The raw sudoku game board**         **Finished sudoku game board**
+
 ## Features of the game project ##
 
 **1.	Game start**
@@ -35,6 +40,7 @@ Sudoku is a mathematical game that originated in 18th century Switzerland. It is
 - The record could also be exported to allow other players to play the save game.
 
 ## Team members ##
+
 **Zheng Yufan(3035535327)**
 - Write proposal
 
