@@ -3,9 +3,11 @@
 ## About Sudoku ##
 Sudoku is a mathematical game that originated in 18th century Switzerland. It is a logic game. Players need to infer all the numbers in the remaining spaces based on the known numbers on the 9×9 board and satisfy that the numbers in each row, column, and each thick line house (3*3) contain 1-9, without any repetition. (As indicated in the pictures below.)
 
-![](https://www.conceptispuzzles.com/zh/picture/11/1354.gif)          ![](https://www.conceptispuzzles.com/zh/picture/11/1355.gif)
+![](https://www.conceptispuzzles.com/zh/picture/11/1354.gif)          
+**The raw sudoku game board** 
 
-**The raw sudoku game board**         **Finished sudoku game board**
+![](https://www.conceptispuzzles.com/zh/picture/11/1355.gif)  
+**Finished sudoku game board**
 
 ## Features of the game project ##
 
